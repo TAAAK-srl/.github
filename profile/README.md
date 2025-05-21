@@ -1,4 +1,4 @@
-## Hi there 👋
+## Benvenuto! 👋
 
 # Taaak: Un Sistema IOT Innovativo
 
