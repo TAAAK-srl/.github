@@ -12,7 +12,7 @@ Taaak è un sistema IOT altamente versatile e unico nel suo genere, nato per ris
 - 📧 PEC: bam-srls@pec.it
 - 📞 Telefono: `+39 0546060243`
 - 📍 Sede legale: [Viale della Lirica 61, 48124 Ravenna (RA)](https://maps.app.goo.gl/MwiKWyqh89ipEprB9)
-- 📍 Sede operaitov: [Via Alessandro Volta 3 - int.6, 48018 Faenza (RA)](https://maps.app.goo.gl/ZUWxvW8VcVgqRDQf9)
+- 📍 Sede operativa: [Via Alessandro Volta 3 - int.6, 48018 Faenza (RA)](https://maps.app.goo.gl/ZUWxvW8VcVgqRDQf9)
 
 
 ## 🍿 La Storia di Taaak
@@ -51,5 +51,5 @@ E così, da una vicenda personale è nato il primo prototipo di quello **che poi
 
 ---
 
-Readme creato da ![@angelof-exe](https://github.com/angelof-exe) con tanto ❤️ $${\color{red}AMORE}$$
+Readme creato da [@angelof-exe](https://github.com/angelof-exe) con tanto 💙 _amore_ 💚
 
