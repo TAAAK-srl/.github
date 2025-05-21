@@ -48,3 +48,8 @@ E così, da una vicenda personale è nato il primo prototipo di quello **che poi
 
 </div>
 
+
+---
+
+Readme creato da ![@angelof-exe](https://github.com/angelof-exe) con tanto ❤️ $${\color{red}AMORE}$$
+
