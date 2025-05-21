@@ -31,3 +31,6 @@ si domanda Max e poi l'illuminazione!
 > "Creerò una scheda che mi permetta di monitorare lo stato della mia barca e mi invii una notifica sul cellulare nel caso in cui dovesse saltare la corrente!"
 
 E così, da una vicenda personale è nato il primo prototipo di quello **che poi sarebbe diventato il dispositivo Taaak di oggi!**
+
+
+
