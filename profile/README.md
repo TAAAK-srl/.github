@@ -17,8 +17,6 @@ Taaak è un sistema IOT altamente versatile e unico nel suo genere, nato per ris
 
 ## 🍿 La Storia di Taaak
 
-La storia dietro la nascita di Taaak è tanto curiosa quanto istruttiva:
-
 Erano passate due settimane dall'ultima volta in cui Max era potuto uscire in barca e finalmente era arrivato il momento di tornare in mare.
 
 Arrivato al porto Max vede la barca ormeggiata al solito posto ma, avvicinandosi, capisce che c'è qualcosa di diverso rispetto all'ultima volta.
